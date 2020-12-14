@@ -61,6 +61,9 @@ const Bio = () => {
           <span>| <a href={`https://www.linkedin.com/in/${social?.linkedin || ``}`}>
             LinkedIn
           </a> |</span>
+          <span>| <a href={`https://shivamverma.netlify.app/`}>
+            Portfolio
+          </a> |</span>
         </p>
       )}
     </div>
